@@ -1,16 +1,19 @@
-# React + Vite
+# Universe of DnD 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Güncel Windows sürümü: **2.2.4**. Mevcut UoD2 yayın deposu üzerinden dağıtılır.
 
-Currently, two official plugins are available:
+**[UoD2'yi indir](https://github.com/ATOStudios/uod2/releases/latest/download/UOD2-Setup.exe)** · [Son sürüm](https://github.com/ATOStudios/uod2/releases/latest)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Kurulum](preview.png)
 
-## React Compiler
+Windows 10/11, 64 bit. Kurulum internet bağlantısı gerektirir. Özel UoD2 kurulum ekranı gerekli dosyaları indirip doğrular. Bizim Client kurulu değilse önce onu kurar. Oyun Bizim Client üzerinden açılır.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Kurulumu aç ve **YÜKLE** düğmesine bas.
+2. Tamamlandıktan sonra **BAŞLAT** ile Bizim Client'i aç.
+3. Discord hesabınla giriş yapıp UoD2'yi başlat. Mevcut hesap erişimi Kasap Discord topluluğu üyeliği gerektirir.
 
-## Expanding the Oxlint configuration
+Yarım kalan indirmeler yeniden çalıştırıldığında devam edebilir. Mevcut oyuncu kayıtları korunur. Bu yayında oyun içeriği güncel yerel 2.2.4 kaynaklarından derlenmiştir.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Kurulumlar şu anda yayıncı sertifikasıyla imzalı değildir; Windows yayıncıyı doğrulayamayabilir.
+
+[Bizim Client](https://github.com/ATOStudios/BizimClient) · [Legends of Aetheria](https://github.com/ATOStudios/loa)
